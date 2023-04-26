@@ -1,3 +1,9 @@
 body {
-  background: blanchedalmond;
-}
+  background: blanchedalmond;}
+  .container {
+    align-items: center;
+    display: flex;
+  color: black;}
+  
+  
+
